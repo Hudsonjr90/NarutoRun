@@ -1,5 +1,11 @@
 # NarutoRun
 
-Game made with canvas/Javascript functions.
+### Jogo feito em canvas e javascript como trabalho de Técnicas de Programação V
 
-next steps will be avaiable soon.
+```
+Possui conceitos importantes para criação e desenvolvimento de jogos utilizando canvas
+```
+
+### Copyright ©
+
+Hudson Kennedy
