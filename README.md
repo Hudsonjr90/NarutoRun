@@ -1,5 +1,8 @@
 # NarutoRun
 
+<p align="left"><img width=50% src="./assets/img/Nr.png"></p>
+
+
 ### Jogo feito em canvas e javascript como trabalho de Técnicas de Programação V
 
 ```
@@ -9,3 +12,5 @@ Possui conceitos importantes para criação e desenvolvimento de jogos utilizand
 ### Copyright ©
 
 Hudson Kennedy
+
+
