@@ -15,7 +15,7 @@ function Sprite(x, y, largura, altura, srcImg){
     }
 }
 
-inicio = new Sprite(0, 0, 200, 205, "img/start.png")
+inicio = new Sprite(0, 0, 200, 205)
 spriteGameover = new Sprite(0, 0, 256, 256, "img/gameover.png")
 bg = new Sprite(0, 0, window.innerWidth, window.innerHeight, "img/konoha.png")
 spritePedras = new Sprite(10, 1, 145, 107, "img/orochimaru.png")

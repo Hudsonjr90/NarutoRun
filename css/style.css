@@ -1,8 +1,22 @@
 canvas{
     position:absolute;
-    top:0px;
-    bottom: 0px;
-    left:0px;
-    right:0px;
     margin:auto;
+    width: 100%;
+    
 }
+
+@media (max-width: 767px) {
+    canvas{
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%
+    }
+}
+
+@media (max-width: 574px) {
+    canvas{
+        width: 25rem
+    }
+}
+
